@@ -1,0 +1,358 @@
+5 onClick
+
+
+
+FileUploader onFilesUpload
+ContentEditor onSave
+NavigationMenu items
+UserProfile user
+UserManagement users
+ContentVersioning onRollback versions
+Comments onCommentSubmit comments
+WorkflowAndApproval content onApprove onReject
+FormBuilder onSubmit fields
+ContentImportExport onImport onExport
+BackupRestore onBackup onRestore
+ThirdPartyIntegration service apiKey onApiKeyChange
+ErrorHandling errorMessage
+UserActivityTracking activityLog
+ContentArchiving archivedContent onRestoreArchive
+RSSFeeds feeds
+CustomFields fields
+ContentActivity activityData
+CommentModeration comments onApproveComment onDeleteComment
+EmailNotification onSendNotification
+ContentLocking isLocked onToggleLock
+ContentRevisions revisions onRestoreRevision
+ContentApprovalWorkflow content onApprove onReject
+UserAccessControl onUserAccessChange userRoles
+ContentPreview previewContent
+ContentExpiration expirationDate onSetExpiration
+ContentLocalization onLanguageChange availableLanguages
+AdvancedContentImportExport onImport onExport
+ContentHistory historyEntries
+VersionControl currentVersion onVersionChange availableVersions
+TranslationManagement onTranslationChange languages translations
+ContentPermissions onPermissionChange users
+ContentAnalytics pageViews uniqueVisitors conversionRate
+ContentRecommendations recommendedContent
+ContentExportOptions onExport exportFormats
+ContentGeolocation locationData
+ContentSearch onSearch
+WorkflowStatus status
+ApprovalHistory approvalHistory
+ContentCollaboration collaborators
+ContentSubscription onToggleSubscription isSubscribed
+ContentAccessibility isAccessible
+ContentFeedback onFeedBackSubmit
+ContentSEO onUpdateSEO seoMetadata
+ContentTags onAddTag tags
+ContentExportHistory exportHistory
+ContentCategorization onCategoryChange categories
+ContentCommenting onAddComment comments
+ContentSecurity isSecure
+ABTesting omVariationSelect variations
+ContentUserRatings onRate averageRating
+ContentScheduling onSchedule ScheduledDate
+UserProfiles users
+SocialSharing onShare
+CommentsModeration onModerate comments
+ContentTranslation onTranslate availableLanguages
+RevisionHistory revisions onSelectRevision
+UserActivityFeed activities
+RelatedArticles articles onArticleCLick
+VersionComparison onCompare versions
+SocialComments onAddComment comments
+ContentDuplication onDuplicate
+PublishSettings onPublishToggle isPublished
+SEOOptimization onUpdateMetaTags metaTags
+ContentCategories categories onSelectCategory
+Workflow currentStep onNextStep onPrevStep
+DataExport onDataExport
+ContentTagging onTag tags
+PollsAndSurveys onAnswer questions
+ContentReviews onReview reviews
+ContentLicensing onLicenseChange licenses
+ExportAsPDF onExportPDF
+ShareContent onShare
+ContentEmbed onEmbed
+ContentNotification onNotification notifications
+ContentPolling onPollSubmit pollQuestions
+NotificationSubscriptions onSubscriptionToggle subscriptions
+UserPermissions onPermissionChange userRoles
+SEOSettings onSEOChange
+ContentTrash onRestore onDelete
+ContentPublishing onPublishToggle isPublished
+UserTracking onTrackingToggle trackUser
+
+
+
+DatabaseQuery onQuery
+DatabasePagination onPageChange
+DatabaseFilter onFilter
+DatabaseExport onExport
+DatabaseInsert onInsert
+DatabaseDelete onDelete
+DatabaseSorting onSort
+DatabaseBackup  onBackup
+DatabaseConnection onConnect
+DatabasePermissions onPermissionChange userRoles
+DatabaseExportCSV onExport
+DatabaseImportCSV onImport
+DatabaseSearch onSearch
+DatabaseReport onGenerateReport
+DatabaseValidation onValidate
+DatabaseBackupRestore onBackup
+DatabaseExportExcel onExport
+DatabaseImportExcel onImport
+DatabaseVisualization onVisualize
+DatabaseExportPDF onExport
+DatabaseDataComparison onCompare data1 data2
+DatabaseDataTransformation onTransform
+DatabaseExportJSON onExport
+DatabaseImportJSON onImport
+DatabaseFiltering onFilter
+DatabaseExportXML onExport
+DatabaseImportXML onImport
+DatabaseBackupCloud onBackup
+DatabaseVersioning onVersion
+DatabaseExportJSONAPI onExport
+DatabaseDataValidation onValidate
+DatabaseExportWord onExport
+DatabaseImportWord onImport
+DatabaseExportPDFAPI onExport
+DatabaseDataReporting onGenerateReport
+DatabaseBackupLocalStorage onBackup
+DatabaseImportLocalStorage onImport
+DatabaseExportEmail onExport
+DatabaseImportEmail onImport
+DatabaseAuthentication onAuthenticate
+
+
+5 onClick
+SimpleBanner title description
+ImageBanner imageUrl altText
+PromoBanner title message promocode
+VideoBanner videoUrl
+CustomBanner children
+CountdownBanner endDate
+ActionBanner onClick title buttonText
+AlertBanner type message
+FeaturedBanner title imageUrl imgTitle
+SlideshowBanner images
+CarouselBanner images
+SaleBanner endDate discount
+FeatureComparisonBanner features
+CallToActionBanner onClick title description actionText
+EventBanner date eventName location
+GradientBanner title subtitle gradientColors gradientStyle
+ProductFeatureBanner icon feature
+VideoBackgroundBanner videoUrl
+NotificationBanner onClose message
+AnimatedBanner animationType content
+TestimonialBanner quote author position
+InfoBanner title content
+HolidayBanner occasion message
+CallToActionImageBanner onClick imageUrl altText actionText
+AnnouncementBanner announcment
+NotificationBar onClose type message
+SeasonalBanner season message
+CallToActionVideoBanner onClick videoUrl actionText
+QuoteBanner quote author
+FeatureHighlightBanner icon title description
+
+
+
+
+BlogPost title content author date
+BlogPostList posts
+AuthorBio authorName bio
+Comment text author date
+CommentSection comments
+Sidebar categories
+BlogHeader title subtitle
+TagList tags
+SearchBar
+Pagination totalPages
+FeaturedPosts posts
+SinglePageLayout title content
+PopularTags tags
+AuthorCard author
+ArchiveList archives
+RelatedPosts relatedPosts
+NewsletterSignup
+SocialMediaShare
+FeaturedAuthor author
+SearchResults results
+ReadTime minutes
+
+
+
+Header
+Footer
+NavigationMenu
+HeroSection title description button
+CallToAction title description button
+Testimonials testimonials
+ContactForm
+ProductCardimage imgName name description button
+BlogPost title excerpt link
+Sidebar homeLink aboutLink serviceLink contactLink
+Modal onClose isOpen children
+ErrorAlert message
+LoadingSpinner
+VideoPlayer videoUrl
+SearchBar
+Pagination totalPages currentPage
+InteractiveTabs tabs
+Accordion items
+ImageGallery images
+ProgressIndicator progress
+CountdownTimer targetDate
+ModalGallery images
+PricingTable plans
+SocialSharing items
+FilterableList
+CommentBox
+NewsletterSignup
+MapComponent longitude latitude
+Notification type message
+AnimatedButton text1 text2 text3
+ProgressBar percentage
+SocialMediaIcons links
+TeamMember imgUrl imgName name role
+NewsletterArchive newsletters
+StepIndicator steps
+NotificationList notifications
+CommentBox comments
+FeatureHighlight icon title description
+Timeline events
+PriceRangeFilter onChange minPrice maxPrice
+WeatherWidget city temperature
+AnimatedAccordion sections
+LanguageSelector selectedLanguage languages
+Ratings rating
+ChatBox messages
+CodeSnippet code
+ImageSlider images
+VideoBackground videoUrl
+QuizComponent options
+PaymentForm
+StarRating maxRating rating
+ScrollToTopButton
+Countdown targetDate
+AudioPlayer audioUrl
+ColorPicker colors selectedColor
+Carousel images
+CountdownBadge targetDate
+CarouselSlider items
+VideoPlaylist videos
+TabbedContent tabs
+NotificationBadge count
+FilterableTable data columns
+ProgressBarWithLabel progress
+ToggleSwitch onChange value
+TagList tags
+TimelineChart data
+ReviewCard
+
+
+
+ProductCard image imgName name price
+ProductList products
+CartSidebar onCheckout onRemoveFromCart cartItems
+CheckoutForm
+SearchBar
+FilterSidebar onCategoryChange categories
+SortDropdown sortOptions selectedOption
+RatingAndReviews productRatings productReviews
+Wishlist onRemoveFromWishlist listItems
+FeaturedProducts featuredProducts
+RelatedProducts relatedProducts
+UserAccount onLogout name email
+OrderHistory orders
+footer
+ShippingTracker trackingNumber fetchShippingStatus
+PromotionsBanner message
+RecentlyViewed viewedProducts
+ScrollToTopButton
+NotificationBadge count
+OrderSummary cartItems shippingCost totalAmount
+ImageGallery images
+TestimonialSlider testimonials
+ShippingOptions onOptionChange options
+DiscountBanner discountPercentage
+CartIcon itemCount
+ProductCarousel products
+QuickViewModal onClose image imgName name price description
+RecentlyPurchased purchasedItems
+ProductRating rating
+EmptyCartMessage
+AddressForm
+ErrorBoundary
+ColorVariants onColorChange colors
+SizeVariants omSizeChange slectedSize sizes
+CurrencySelector onCurrencyChange selectedCurrency currencies
+BulkOrderForm
+GiftCardBalance balance
+RecommendedProducts products
+BundleOffer products
+InteractiveColorPicker onColorChange
+
+
+
+Button onClick style text
+Input onChange placeholderText value
+Textarea onChange placeholderText value
+Checkbox onChange checked label
+RadioButton onChange checked label
+Select onChange value options
+Modal onClose isOpen
+Navbar feature1 feature2 feature3
+Header title description description2
+Footer
+Alert type message
+LoadingSpinner
+ErrorMessage message
+Pagination
+Card image imgTitle title description
+Sidebar
+MainContent children
+
+
+
+Navbar
+Sidebar
+NavigationMenu
+Breadcrumbs paths
+Tabs tabs
+Pagination onPageChange currentPage totalPages
+DropdownMenu onSelect options
+MobileNavMenu links
+mobileNavLinks
+PaginationWithPageSize onPageChange  currentPage totalPages
+
+
+
+UserProfile username bio followers following
+Post content author likes comments
+PostList posts
+FriendSuggestions suggestions
+CommentBox
+UserCard avatarUrl username bio
+NotificationBadge count
+MessageList messages
+ActivityFeed activites
+OnlineFriends friends
+ProfileMenu onLogout username
+PhotoUpload
+HashtagFeed hashtag posts
+OnlineStatus isOnline
+TrendingTopics topics
+ProfileStats postsCount followersCount followingCount
+ChatWindow messages
+Album photos
+EventCard eventName date location
+UserVerification isVerified
+
+

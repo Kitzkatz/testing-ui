@@ -1,0 +1,688 @@
+6 onClick
+15 title
+7 content
+10 description
+3 children
+7 images
+5 onClose
+11 message
+4 type
+3 button
+5 videoUrl
+3 imageUrl
+3 actionText
+7 onChange
+2 altText
+1 promoCode
+2 endDate
+1 buttonText
+1 imgTitle
+1 discount
+1 features
+4 date
+2 eventName
+2 location
+2 subtitle
+1 gradientColors
+1 gradientStyle
+3 icon
+1 feature
+1 animationType
+2 quote
+7 author
+1 position
+1 occasion
+1 announcement
+1 season
+4 posts
+1 authorName
+3 bio
+2 text
+8 comments
+4 categories
+5 tags
+4 totalPages
+1 archives
+1 relatedPosts
+1 results
+1 minutes
+2 testimonials
+4 image
+4 imgName
+5 name
+1 excerpt
+1 link
+1 homeLink
+1 aboutLink
+1 serviceLink
+1 contactLink
+2 isOpen
+3 currentPage
+3 tabs
+2 progress
+4 items
+3 targetDate
+1 plans
+1 longitude
+1 latitude
+1 text1
+1 text2
+1 text3
+1 percentage
+2 links
+1 imgUrl
+1 role
+1 newsletters
+1 steps
+2 notifications
+1 events
+1 minPrice
+1 maxPrice
+1 city
+1 temperature
+1 sections
+1 selectedLanguage
+2 languages
+3 rating
+3 messages
+1 code
+4 options
+1 maxRating
+1 audioUrl
+2 colors
+1 selectedColor
+1 videos
+3 count
+2 data
+1 columns
+4 value
+2 price
+4 products
+1 onCheckout
+1 onRemoveFromCart
+2 cartItems
+2 onCategoryChange
+1 productRatings
+1 productReviews
+1 onRemoveFromWishlist
+1 listItems
+1 featuredProducts
+1 relatedProducts
+2 onLogout
+1 email
+1 orders
+1 trackingNumber
+1 fetchShippingStatus
+1 viewedProducts
+1 shippingCost
+1 totalAmount
+1 onOptionChange
+1 discountPercentage
+1 itemCount
+1 purchasedItems
+2 onColorChange
+1 onSizeChange
+1 selectedSize
+1 sizes
+1 onCurrencyChange
+1 selectedCurrency
+1 currencies
+1 balance
+1 style
+2 placeholderText
+2 placeholder
+2 Textchecked
+2 label
+1 feature1
+1 feature2
+1 feature3
+1 description2
+1 paths
+2 onPageChange
+1 onSelect
+3 username
+1 followers
+1 following
+1 likes
+1 suggestions
+1 avatarUrl
+1 activites
+1 friends
+1 hashtag
+1 isOnline
+1 topics
+1 postsCount
+1 followersCount
+1 followingCount
+1 isVerified
+1 onFilesUpload
+1 onSave
+1 user
+3 users
+1 onRollback
+2 versions
+1 onCommentSubmit
+2 onApprove
+2 onReject
+1 onSubmit
+2 fields
+9 onImport
+13 onExport
+5 onBackup
+2 onRestore
+1 service
+1 apiKey
+1 onApiKeyChange
+1 errorMessage
+1 activityLog
+1 archivedContent
+1 onRestoreArchive
+1 feeds
+1 activityData
+1 onApproveComment
+1 onDeleteComment
+1 onSendNotification
+1 isLocked
+1 onToggleLock
+2 revisions
+1 onRestoreRevision
+1 onUserAccessChange
+3 userRoles
+1 previewContent
+1 expirationDate
+1 onSetExpiration
+1 onLanguageChange
+2 availableLanguages
+1 historyEntries
+1 currentVersion
+1 onVersionChange
+1 availableVersions
+1 onTranslationChange
+1 translations
+3 onPermissionChange
+1 pageViews
+1 uniqueVisitors
+1 conversionRate
+1 recommendedContent
+1 locationData
+2 onSearch
+1 status
+1 approvalHistory
+1 collaborators
+1 onToggleSubscription
+1 isSubscribed
+1 isAccessible
+1 onFeedBackSubmit
+1 onUpdateSEO
+1 seoMetadata
+1 onAddTag
+1 isSecure
+1 onVariationSelect
+1 variations
+1 onRate
+1 averageRating
+1 onSchedule
+1 ScheduledDate
+2 onShare
+1 onModerate
+1 onTranslate
+1 onSelectRevision
+1 activities
+1 articles
+1 onArticleCLick
+2 onCompare
+1 onAddComment
+1 onDuplicate
+2 onPublishToggle
+2 isPublished
+1 onUpdateMetaTags
+1 metaTags
+1 onSelectCategory
+1 currentStep
+1 onNextStep
+1 onPrevStep
+1 onDataExport
+1 onTag
+1 onAnswer
+1 questions
+1 onReview
+1 reviews
+1 onLicenseChange
+1 licenses
+1 onExportPDF
+1 onEmbed
+1 onNotification
+1 onPollSubmit
+1 pollQuestions
+1 onSubscriptionToggle
+1 subscriptions
+1 onSEOChange
+2 onDelete
+1 onTrackingToggle
+1 trackUser
+1 onQuery
+2 onFilter
+1 onInsert
+1 onSort
+1 onConnect
+2 onGenerateReport
+2 onValidate
+1 onVisualize
+1 data1
+1 data2
+1 onTransform
+1 onVersion
+1 onAuthenticate
+
+
+
+2 content 5 comments 2 categories 2 tags 1 items 1 notifications 1 languages 1 onCategoryChange 1 onFilesUpload
+1 onSave 1 user 3 users 1 onRollback 2 versions 1 onCommentSubmit 2 onApprove 2 onReject 1 onSubmit 2 fields
+2 onImport 3 onExport 1 onBackup 2 onRestore 1 service 1 apiKey 1 onApiKeyChange 1 errorMessage 1 activityLog
+1 archivedContent 1 onRestoreArchive 1 feeds 1 activityData 1 onApproveComment 1 onDeleteComment 1 onSendNotification
+1 isLocked 1 onToggleLock 2 revisions 1 onRestoreRevision 1 onUserAccessChange 2 userRoles 1 previewContent
+1 expirationDate 1 onSetExpiration 1 onLanguageChange 2 availableLanguages 1 historyEntries
+1 currentVersion 1 onVersionChange 1 availableVersions 1 onTranslationChange  1 translations 2 onPermissionChange
+1 pageViews 1 uniqueVisitors 1 conversionRate 1 recommendedContent 1 locationData 1 onSearch 1 status
+1 approvalHistory 1 collaborators 1 onToggleSubscription 1 isSubscribed 1 isAccessible 1 onFeedBackSubmit
+ 1 onUpdateSEO 1 seoMetadata 1 onAddTag 1 isSecure 1 onVariationSelect 1 variations 1 onRate 1 averageRating
+1 onSchedule 1 ScheduledDate 2 onShare 1 onModerate 1 onTranslate 1 onSelectRevision 1 activities 1 articles
+1 onArticleCLick 1 onCompare 1 onAddComment 1 onDuplicate 2 onPublishToggle 2 isPublished 1 onUpdateMetaTags
+1 metaTags
+1 onSelectCategory 1 currentStep 1 onNextStep 1 onPrevStep 1 onDataExport 1 onTag 1 onAnswer 1 questions
+1 onReview 1 reviews 1 onLicenseChange 1 licenses 1 onExportPDF 1 onEmbed 1 onNotification 1 onPollSubmit
+1 pollQuestions 1 onSubscriptionToggle 1 subscriptions 1 onSEOChange 1 onDelete 1 onTrackingToggle 1 trackUser
+
+
+
+
+FileUploader
+ContentEditor
+NavigationMenu
+UserProfile
+UserManagement
+ContentVersioning
+Comments
+WorkflowAndApproval
+FormBuilder
+ContentImportExport
+BackupRestore
+ThirdPartyIntegration
+ErrorHandling
+UserActivityTracking
+ContentArchiving
+RSSFeeds
+CustomFields
+ContentActivity
+CommentModeration
+EmailNotification
+ContentLocking
+ContentRevisions
+ContentApprovalWorkflow
+UserAccessControl
+ContentPreview
+ContentExpiration
+ContentLocalization
+AdvancedContentImportExport
+ContentHistory
+VersionControl
+TranslationManagement
+ContentPermissions
+ContentAnalytics
+ContentRecommendations
+ContentExportOptions
+ContentGeolocation
+ContentSearch
+WorkflowStatus
+ApprovalHistory
+ContentCollaboration
+ContentSubscription
+ContentAccessibility
+ContentFeedback
+ContentSEO
+ContentTags
+ContentExportHistory
+ContentCategorization
+ContentCommenting
+ContentSecurity
+ABTesting
+ContentUserRatings
+ContentScheduling
+UserProfiles
+SocialSharing
+CommentsModeration
+ContentTranslation
+RevisionHistory
+UserActivityFeed
+RelatedArticles
+VersionComparison
+SocialComments
+ContentDuplication
+PublishSettings
+SEOOptimization
+ContentCategories
+Workflow
+DataExport
+ContentTagging
+PollsAndSurveys
+ContentReviews
+ContentLicensing
+ExportAsPDF
+ShareContent
+ContentEmbed
+ContentNotification
+ContentPolling
+NotificationSubscriptions
+UserPermissions
+SEOSettings
+ContentTrash
+ContentPublishing
+UserTracking
+
+
+
+1 onPageChange 7 onImport 4 onBackup 1 userRoles 1 onPermissionChange 1 onSearch 1 onCompare 1 onQuery
+2 onFilter 1 onInsert 1 onDelete 1 onSort 1 onConnect 2 onGenerateReport 2 onValidate 1 onVisualize
+1 data1 1 data2 1 onTransform 1 onVersion 1 onAuthenticate
+
+DatabaseQuery
+DatabasePagination
+DatabaseFilter
+DatabaseExport
+DatabaseInsert
+DatabaseDelete
+DatabaseSorting
+DatabaseBackup
+DatabaseConnection
+DatabasePermissions
+DatabaseExportCSV
+DatabaseImportCSV
+DatabaseSearch
+DatabaseReport
+DatabaseValidation
+DatabaseBackupRestore
+DatabaseExportExcel
+DatabaseImportExcel
+DatabaseVisualization
+DatabaseExportPDF
+DatabaseDataComparison
+DatabaseDataTransformation
+DatabaseExportJSON
+DatabaseImportJSON
+DatabaseFiltering
+DatabaseExportXML
+DatabaseImportXML
+DatabaseBackupCloud
+DatabaseVersioning
+DatabaseExportJSONAPI
+DatabaseDataValidation
+DatabaseExportWord
+DatabaseImportWord
+DatabaseExportPDFAPI
+DatabaseDataReporting
+DatabaseBackupLocalStorage
+DatabaseImportLocalStorage
+DatabaseExportEmail
+DatabaseImportEmail
+DatabaseAuthentication
+
+
+5 onClick 6 title 2 content 3 description 1 children 2 images 2 onClose 6 message 2 type 3 videourl 3 imageUrl
+3 actionText 2 altText 1 promocode 2 endDate 1 buttonText 1 imgTitle 1 discount 1 features 1 date 1 eventName
+1 location 1 subtitle 1 gradientColors 1 gradientStyle 2 icon 1 feature 1 animationType 2 quote 2 author
+1 position 1 occasion 1 announcement 1 season
+SimpleBanner
+ImageBanner
+PromoBanner
+VideoBanner
+CustomBanner
+CountdownBanner
+ActionBanner
+AlertBanner
+FeaturedBanner
+SlideshowBanner
+CarouselBanner
+SaleBanner
+FeatureComparisonBanner
+CallToActionBanner
+EventBanner
+GradientBanner
+ProductFeatureBanner
+VideoBackgroundBanner
+NotificationBanner
+AnimatedBanner
+TestimonialBanner
+InfoBanner
+HolidayBanner
+CallToActionImageBanner
+AnnouncementBanner
+NotificationBar
+SeasonalBanner
+CallToActionVideoBanner
+QuoteBanner
+FeatureHighlightBanner
+
+
+
+3 title 2 content 2 date 1 subtitle 4 author 2 posts 1 authorName 1 bio 1 text 1 comments 1 categories 2 tags
+1 totalPages 1 archives 1 relatedPosts 1 results 1 minutes
+
+BlogPost
+BlogPostList
+AuthorBio
+Comment
+CommentSection
+Sidebar
+BlogHeader
+TagList
+SearchBar
+Pagination
+FeaturedPosts
+SinglePageLayout
+PopularTags
+AuthorCard
+ArchiveList
+RelatedPosts
+NewsletterSignup
+SocialMediaShare
+FeaturedAuthor
+SearchResults
+ReadTime
+
+
+
+4 title 4 description 1 children 4 images 1 onClose 2 message 1 type 3 button 2 videoUrl 2 onChange 1 icon
+1 comments 1 tags 1 totalPages 1 image 2 imgName 2 name 1 excerpt 1 link 1 homeLink 1 aboutLink 1 serviceLink
+1 contactLink 1 isOpen 1 currentPage 2 tabs 2 progress 3 items 3 targetDate 1 plans 1 longitude 1 latitude
+1 text1 1 text2 1 text3 1 percentage 1 links 1 imgUrl 1 role 1 newsletters 1 steps 1 notifications 1 events
+1 minPrice 1 maxPrice 1 city 1 temperature 1 sections 1 selectedLanguage 1 languages 2 rating 1 messages 1 code
+1 options 1 maxRating 1 audioUrl 1 colors 1 selectedColor 1 videos 1 count 2 data 1 columns 1 value
+
+Header
+Footer
+NavigationMenu
+HeroSection
+CallToAction
+Testimonials
+ContactForm
+ProductCard
+BlogPost
+Sidebar
+Modal
+ErrorAlert
+LoadingSpinner
+VideoPlayer
+SearchBar
+Pagination
+InteractiveTabs
+Accordion
+ImageGallery
+ProgressIndicator
+CountdownTimer
+ModalGallery
+PricingTable
+SocialSharing
+FilterableList
+CommentBox
+NewsletterSignup
+MapComponent
+Notification
+AnimatedButton
+ProgressBar
+SocialMediaIcons
+TeamMember
+NewsletterArchive
+StepIndicator
+NotificationList
+CommentBox
+FeatureHighlight
+Timeline
+PriceRangeFilter
+WeatherWidget
+AnimatedAccordion
+LanguageSelector
+Ratings
+ChatBox
+CodeSnippet
+ImageSlider
+VideoBackground
+QuizComponent
+PaymentForm
+StarRating
+ScrollToTopButton
+Countdown
+AudioPlayer
+ColorPicker
+Carousel
+CountdownBadge
+CarouselSlider
+VideoPlaylist
+TabbedContent
+NotificationBadge
+FilterableTable
+ProgressBarWithLabel
+ToggleSwitch
+TagList
+TimelineChart
+ReviewCard
+
+
+
+1 description 1 images 1 onClose 1 message 1 categories 2 image 2 imgName 3 name 1 rating 1 options 1 colors
+1 count 2 price 4 products
+ 1 onCheckout 1 onRemoveFromCart 2 cartItems 1 onCategoryChange 1 sortOptions 1 selectedOption 1 productRatings
+ 1 productReviews 1 onRemoveFromWishlist 1 listItems 1 featuredProducts 1 relatedProducts 1 onLogout 1 email
+ 1 orders 1trackingNumber 1 fetchShippingStatus 1 viewedProducts 1 shippingCost 1 totalAmount 1 onOptionChange
+1 discountPercentage 1 itemCount 1 purchasedItems 2 onColorChange 1 onSizeChange 1 selectedSize 1 sizes
+1 onCurrencyChange 1 selectedCurrency 1 currencies 1 balance
+
+ProductCard
+ProductList
+CartSidebar
+CheckoutForm
+SearchBar
+FilterSidebar
+SortDropdown
+RatingAndReviews
+Wishlist
+FeaturedProducts
+RelatedProducts
+UserAccount
+OrderHistory
+footer
+ShippingTracker
+PromotionsBanner
+RecentlyViewed
+ScrollToTopButton
+NotificationBadge
+OrderSummary
+ImageGallery
+TestimonialSlider
+ShippingOptions
+DiscountBanner
+CartIcon
+ProductCarousel
+QuickViewModal
+RecentlyPurchased
+ProductRating
+EmptyCartMessage
+AddressForm
+ErrorBoundary
+ColorVariants
+SizeVariants
+CurrencySelector
+BulkOrderForm
+GiftCardBalance
+RecommendedProducts
+BundleOffer
+InteractiveColorPicker
+
+
+
+2 title 2 description 1 children 1 onClose 2 message 1 type 5 onChange 1 imgTitle 1 text 1 image 1 isOpen
+1 links 1 options 3 value 1 onClick 1 style 2 placeholder 2 Textchecked 2 label 1 feature1 1 feature2 1 feature3
+1 description2
+
+Button
+Input
+Textarea
+Checkbox
+RadioButton
+Select
+Modal
+Navbar
+Header
+Footer
+Alert
+LoadingSpinner
+ErrorMessage
+Pagination
+Card
+Sidebar
+MainContent
+
+
+
+
+2 totalPages 2 currentPage 1 options 1 paths 2 onPageChange 1 onSelect
+
+Navbar
+Sidebar
+NavigationMenu
+Breadcrumbs
+Tabs
+Pagination
+DropdownMenu
+MobileNavMenu
+mobileNavLinks
+PaginationWithPageSize
+
+
+
+1 content 1 date 1 eventName 1 location 1 author 2 posts 2 bio 1 comments 2 messages 1 count 1 onLogout 3 username
+1 followers 1 following 1 likes 1 suggestions 1 avatarUrl 1 activites 1 friends 1 hashtag 1 isOnline 1 topics
+1 postsCount 1 followersCount 1 followingCount 1 isVerified
+
+
+UserProfile
+Post
+PostList
+FriendSuggestions
+CommentBox
+UserCard
+NotificationBadge
+MessageList
+ActivityFeed
+OnlineFriends
+ProfileMenu
+PhotoUpload
+HashtagFeed
+OnlineStatus
+TrendingTopics
+ProfileStats
+ChatWindow
+Album photos
+EventCard
+UserVerification
+
+
