@@ -64,7 +64,7 @@ formatting for things like dates ok.
 Handlers
 
 Handlers are named using the word "on" if the variables name is onClick I think you'll understand what's happening
-most arrays use mappings, which are done through the pre-configured components which does have its restraints
+most handlers use mappings, which are done through the pre-configured components which does have its restraints
 and may not work for all cases but the handlers except functions which is what I think is great about
 this library. You want a button to do something when the user clicks it, well you are the master of your code.
 
