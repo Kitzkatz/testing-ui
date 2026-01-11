@@ -65,7 +65,7 @@ A TypeScript port is a future consideration, following the same migration path p
 
 Variables & Naming Philosophy
 
-The library follows a semantic naming convention to make prop intent obvious without needing excessive documentation.
+    The library follows a semantic naming convention to       make prop intent obvious without needing excessive documentation.
 
 Supported prop categories include:
 
@@ -79,36 +79,36 @@ Supported prop categories include:
 
     Booleans
 
-Floats may also work in certain cases, but are not a primary focus.
+    Floats may also work in certain cases, but are not a primary focus.
 
 
 Strings
 
-String props are used for:
+    String props are used for:
 
-Text
+    Text
 
-Labels
+    Labels
 
-Descriptions
+    Descriptions
 
-Display content
+    Display content
 
 Ints
 
-Integer props are used for numeric values such as:
+    Integer props are used for numeric values such as:
 
-Dates
+    Dates
 
-Percentages
+    Percentages
 
-Quantitative configuration values
+    Quantitative configuration values
 
-These values rely on standard libraries for parsing and formatting. Ensure inputs follow the expected formats (especially for dates) to avoid unexpected behavior.
+    These values rely on standard libraries for parsing and formatting. Ensure inputs follow the expected formats (especially for dates) to avoid unexpected behavior.
 
 Handlers
 
-Event handlers follow a consistent naming convention using the on* prefix (e.g., onClick), making intent immediately clear without additional documentation.
+    Event handlers follow a consistent naming convention using the on* prefix (e.g., onClick), making intent immediately clear without additional documentation.
 
 Most handlers are implemented through mapped, pre-configured components, which provide common interaction patterns out of the box. While this approach introduces some constraints, it significantly reduces boilerplate for standard use cases.
 
@@ -118,11 +118,11 @@ If you want a button to perform an action on user interaction, you retain full c
 
 Arrays
 
-Array props use pluralized naming (e.g., options) and are predefined and internally mapped. Their usage is limited by design, but they are stable and predictable within supported components.
+    Array props use pluralized naming (e.g., options) and are predefined and internally mapped. Their usage is limited by design, but they are stable and predictable within supported components.
 
 Booleans 
 
-Boolean props represent state or feature toggles (e.g., true / false).
+    Boolean props represent state or feature toggles (e.g., true / false).
 
 They are used to control visibility, enable/disable behavior, or switch component modes without introducing additional complexity.
 
