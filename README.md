@@ -46,9 +46,20 @@ choose any component lets say the SimpleBanner components from the banner compon
 
 And with that you've created your first component with the testing library, congrats!
 
-Now because I'm impatient lets move on to some other info i think is important for the user to understand.
-Simplicity is the goal with the testing library, Now with 275 unique variables and 507 total variables that's tricky.
-there are four total types you can expect to see the two most important being arrays and handlers.
+
+Simplicity & Scale
+
+Simplicity is the primary design goal of the testing library — even at scale.
+
+With 275+ unique props and 500+ total variables, complexity is inevitable. The library addresses this by enforcing a small, predictable set of prop types rather than expanding the API surface.
+
+There are four primary prop categories you can expect to encounter throughout the library. The two most critical are:
+
+Arrays — used for structured, repeatable data and internal mappings
+
+Handlers — function-based props that define behavior and interaction
+
+By constraining the system to a limited number of prop types, the library remains approachable despite its size, allowing users to reason about components quickly without memorizing bespoke APIs.
 
 Of all four types being arrays, handlers, strings and the secret fifth one is state or true or false.
 they can all be somewhat identified by the variable names. Lets not get ahead of ourselves just yet though.
